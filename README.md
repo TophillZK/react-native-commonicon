@@ -7,10 +7,9 @@ yarn add react-native-commonicon
 ```
 
 Generate ttf file
+```bash
   if ("react-native-vector-icons" in package.json){
-    ```bash
     react-native link
-    ```
   }
   else{
     Insert into package.json
@@ -19,11 +18,10 @@ Generate ttf file
     "react-native-vector-icons": "^6.6.0",
     ...
     }
-    ```bash
     react-native link
-    ```
     Delete <font color=#ff0000>"react-native-vector-icons": "^6.6.0",<font> from package.json
   }
+```
 
 ## Usage
 ```javascript
