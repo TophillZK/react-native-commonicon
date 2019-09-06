@@ -1,0 +1,28 @@
+{
+  "name": "react-native-commonicon",
+  "version": "1.0.1",
+  "description": "react native icon component",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TophillZK/react-native-commonicon"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-component",
+    "react-native",
+    "ios",
+    "android",
+    "icon"
+  ],
+  "author": "TophillZK",
+  "license": "",
+  "dependencies": {
+    "react-native-vector-icons": "^6.6.0",
+    "prop-types": "^15.6.2"
+  },
+  "devDependencies": {},
+  "peerDependencies": {}
+}
