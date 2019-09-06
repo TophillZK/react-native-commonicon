@@ -57,7 +57,7 @@ const styles = StyleSheet.create({
 ### Component props
 | Prop | Required | Type | default | description |
 | ---- | ---- | ----| ---- | ---- |
-| iconType | YES | string | none | |
+| iconType | YES | string | none | Entypo,EvilIcons,Feather,FontAwesome,Foundation,Ionicons,MaterialIcons,MaterialCommunityIcons,Octicons,Zocial |
 | iconName | YES | string | none | |
 | touchable | NO | bool | true | |
 | onPress | NO | func | none | |
