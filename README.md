@@ -19,7 +19,7 @@ Generate ttf file
     ...
     }
     react-native link
-    Delete <font color=#ff0000>"react-native-vector-icons": "^6.6.0",<font> from package.json
+    Delete react-native-vector-icons": "^6.6.0" from package.json
   }
 ```
 
